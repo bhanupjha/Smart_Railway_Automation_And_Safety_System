@@ -19,7 +19,7 @@ Arduino-based railway safety project using Arduino Nano, IR sensors, ultrasonic 
 - LEDs
 
 ## Project Image
-Smart_Railway_Automation_And_Safety_System(images/project.png)
+![Project](images/project.png)
 
 ## Author
 Bhanu Prakash
